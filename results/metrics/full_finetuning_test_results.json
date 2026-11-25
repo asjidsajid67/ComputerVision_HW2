@@ -1,0 +1,5 @@
+{
+    "method": "Full Fine-Tuning",
+    "test_accuracy": 0.8383755791768874,
+    "test_macro_f1": 0.8351418505484645
+}

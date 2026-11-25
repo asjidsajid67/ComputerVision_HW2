@@ -1,0 +1,5 @@
+{
+    "method": "Classifier-Head Training",
+    "test_accuracy": 0.8446443172526574,
+    "test_macro_f1": 0.8404853713295726
+}

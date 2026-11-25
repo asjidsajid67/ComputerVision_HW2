@@ -1,0 +1,10 @@
+{
+    "method": "Feature Extraction with Linear SVM",
+    "validation_accuracy": 0.8478260869565217,
+    "validation_macro_f1": 0.8462537968666283,
+    "test_accuracy": 0.8299264104660671,
+    "test_macro_f1": 0.8270657273167152,
+    "feature_extraction_time": 62.48,
+    "classifier_training_time": 9.88,
+    "total_time": 72.36
+}

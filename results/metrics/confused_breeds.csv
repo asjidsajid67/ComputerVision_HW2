@@ -1,0 +1,6 @@
+Breed A,Breed B,A predicted as B,B predicted as A,Total Confusions
+British Shorthair,Russian Blue,21,8,29
+American Pit Bull Terrier,Staffordshire Bull Terrier,27,2,29
+Birman,Ragdoll,14,12,26
+Bengal,Maine Coon,5,15,20
+English Cocker Spaniel,English Setter,13,5,18
