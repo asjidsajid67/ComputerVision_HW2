@@ -156,12 +156,12 @@ python src/extract_features.py
 python src/train_classifier.py
 ```
 
+
 **Full fine-tuning:**
 
 ```bash
 python src/train_model.py
 ```
-
 
 **Evaluate the trained models:**
 
@@ -179,6 +179,7 @@ python src/save_confusion_analysis.py
 ```
 
 Additional scripts are available in the `src` folder for plotting training history, generating prediction examples, and analyzing confused breeds.
+
 
 ### 11. Reproducibility
 
