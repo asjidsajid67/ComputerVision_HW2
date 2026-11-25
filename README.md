@@ -112,6 +112,7 @@ The project was developed using:
 | Pandas | 3.1.1 |
 | Pillow | 13.0.0 |
 | Seaborn | 0.13.2 |
+| tqdm | 4.70.1 |
 
 PyTorch was installed with CUDA 11.8 support.
 
@@ -161,11 +162,20 @@ python src/train_classifier.py
 python src/train_model.py
 ```
 
+
 **Evaluate the trained models:**
 
 ```bash
 python src/evaluate_classifier_head.py
 python src/evaluate_full_finetuning.py
+```
+
+**Generate plots and prediction examples:**
+
+```bash
+python src/plot_training_history.py
+python src/visualize_predictions.py
+python src/save_confusion_analysis.py
 ```
 
 Additional scripts are available in the `src` folder for plotting training history, generating prediction examples, and analyzing confused breeds.
